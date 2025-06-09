@@ -1,0 +1,5 @@
+
+flask
+nltk
+keybert
+sentence-transformers
