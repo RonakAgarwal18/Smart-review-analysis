@@ -29,3 +29,7 @@ A simple Flask-based API that performs sentiment analysis, keyword extraction, a
 pip install -r requirements.txt
 python app.py
 ```
+
+## Contributors
+* **Nakibul Islam**
+* **Ronak Agarwal** - [GitHub Profile](https://github.com/RonakAgarwal18)
